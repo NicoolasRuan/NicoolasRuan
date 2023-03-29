@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A Front End Developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicoolasruan&label=Profile%20views&color=0e75b6&style=flat" alt="nicoolasruan" /> </p>
-
 - 🌱 I’m currently learning **Nodejs, React**
 
 - 📫 How to reach me **nicolasdev.contact@gmail.com**
