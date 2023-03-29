@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicoolasruan&label=Profile%20views&color=0e75b6&style=flat" alt="nicoolasruan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicoolasruan" alt="nicoolasruan" /></a> </p>
-
 - 🌱 I’m currently learning **Nodejs, React**
 
 - 📫 How to reach me **nicolasdev.contact@gmail.com**
@@ -23,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoolasruan&show_icons=true&locale=en" alt="nicoolasruan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicoolasruan&" alt="nicoolasruan" /></p>
