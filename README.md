@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **javascript, html, css**
 
-- 📫 How to reach me **nicolasdev.contac@gmail.com**
+- 📫 How to reach me **nicolasdev.contact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="background:yellow">
