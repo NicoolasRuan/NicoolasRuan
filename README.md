@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Nicolas</h1>
-<h3 align="left">A Front End Developer from Brazil 🇧🇷</h3>
+<h3 align="left">A Full Stack Developer from Brazil 🇧🇷</h3>
 <img alt="sun-gif" width="400" align="right" src="https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicoolasruan&label=Profile%20views&color=22272e&style=plastic" alt="nicoolasruan" /> </p>
 
-- 🌱 I’m currently learning **React, Nodejs**
+- 🌱 I’m currently learning **React, Nestjs**
 
-- 💬 Ask me about **javascript, html, css**
+- 💬 Ask me about **Node, Typescript, React and Nestjs**
 
 - 📫 How to reach me **nicolasdev.contact@gmail.com**
 
